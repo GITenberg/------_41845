@@ -1,0 +1,31 @@
+_repo: '------_41845'
+_version: 0.1.0
+alternative_title: Onamaalu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ramamohan Rao, Mahidhara
+    aliases:
+    - Rao, Mahidhara Ramamohan
+    - Mahidhara Ramamohan Rao
+    - మహీధర రామమోహనరావు
+    birthdate: 1909
+    deathdate: 2000
+    gutenberg_agent_id: '39781'
+    url: http://www.gutenberg.org/2009/agents/39781
+description: ''
+gutenberg_issued: '2013-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41845'
+language: te
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PL'
+title: ఓనమాలు
+url: http://www.gutenberg.org/ebooks/41845
